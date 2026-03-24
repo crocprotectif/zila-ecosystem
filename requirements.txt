@@ -1,0 +1,6 @@
+python-telegram-bot
+web3
+cryptography
+fastapi
+uvicorn
+python-dotenv
